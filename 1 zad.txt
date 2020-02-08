@@ -1,7 +1,4 @@
 Az reshih pirva zadacha
 Az izvirshih 2rata chast
-<<<<<<< HEAD
 koko
-=======
 oshte orod
->>>>>>> BranchN2
